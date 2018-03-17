@@ -42,8 +42,8 @@
 
 3. No terminal de linha de comando, estando na pasta raiz do projeto, execute `mvn clean install`.
 
-4. Implante o módulo `projeto` no servidor. Logo em seguida à correta execução deste primeiro,
-5. Despois de iniciados os módulos acima já será possível a solução web proposta já estará disponível em  [](http://localhost:8080/tecForum/).
+4. Implante o módulo `tecForum` no servidor. Logo em seguida à correta execução deste primeiro,
+5. Despois de iniciados os módulos acima já será possível a solução web proposta já estará disponível em  [http://localhost:8080/tecForum/](http://localhost:8080/tecForum/).
 
     Foi inserido um usuário `admin` para início de uso do sistema, com as seguinte credenciais:
       - email: jose@gmail.com
